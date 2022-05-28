@@ -1,0 +1,7 @@
+img {
+    transform: scaleX(-1);
+}
+body {
+    background-image:url("redbloodbackground.jpg");
+    overflow: hidden;
+};
